@@ -1,5 +1,5 @@
   {
-    "force_update": true,
+    "force_update": false,
     "min_version": "1.0.6",
     "service_stopped": false,
     "stop_message": "服务维护中，请稍后再试"
