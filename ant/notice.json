@@ -1,0 +1,8 @@
+  {
+    "force_update": true,
+    "min_version": "1.0.6",
+    "service_stopped": true,
+    "stop_message": "服务维护中，请稍后再试",
+    "latest_version": "1.0.6",
+    "release_notes": "1. 新增功能A\n2. 修复Bug B\n3. 优化性能"
+  }
